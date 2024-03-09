@@ -1,0 +1,20 @@
+{
+  "name": "slonik666",
+  "version": "1.0.0",
+  "description": "tea code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://mirror.xyz/ochob.eth/xbtTST6rTgYyizU-yfJ4Cu26TVrtxghHFUzhzv7phTc"
+  },
+  "dependencies": {
+    "hamstertea": "1.0.0",
+    "pelmeniosla": "1.0.0",
+    "kaban69": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
